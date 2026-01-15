@@ -26,7 +26,7 @@
 
 ### Some of My Projects
 - [schepass](https://github.com/nepinhum/schepass) |  A password manager written in Go, supposedly advanced. 
-- [TrollXD](github.com/nepinhum/TrollXD) |  A Troll plugin with an easy UI and advanced features for [PocketMine-MP](github.com/pmmp/PocketMine-MP).
+- [TrollXD](https://github.com/nepinhum/TrollXD) |  A Troll plugin with an easy UI and advanced features for [PocketMine-MP](github.com/pmmp/PocketMine-MP).
 - [BloodicClient](https://github.com/nepinhum/BloodicClient) | Experimental level (for now) Minecraft hacked client. 
 - [TranslationManager](https://github.com/nepinhum/TranslationManager) | A Translator library-virion for [PocketMine-MP](github.com/pmmp/PocketMine-MP). 
 - [godot-platformer2d](https://github.com/nepinhum/godot-platformer) | A 2D platformer developed in Godot Engine with GDScript.

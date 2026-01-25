@@ -30,8 +30,8 @@
 - [BloodicClient](https://github.com/nepinhum/BloodicClient) | Experimental level (for now) Minecraft hacked client. 
 - [TranslationManager](https://github.com/nepinhum/TranslationManager) | A Translator library-virion for [PocketMine-MP](github.com/pmmp/PocketMine-MP). 
 - [godot-platformer2d](https://github.com/nepinhum/godot-platformer) | A 2D platformer developed in Godot Engine with GDScript.
-- [OpenFNAF](https://github.com/OpenFNAF) | An open-source (fan-made) remake of the FNaF series, in one game.
-- ...
+- [OpenFNAF](https://github.com/OpenFNAF) | A re-make (fan-made) games project inspired by the FnaF series.
+-. ...
 
 ## About me
 I'm too lazy to do it now but it will be done by the time you come back!

@@ -14,8 +14,9 @@
 - sleeping 👏
 - and a few other things!
 
+<!--
 ### Hmmh?
-[![scher's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepinhum)](https://github.com/anuraghazra/github-readme-stats)
+[![scher's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepinhum)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Links
 - [Personal blog](https://nepinhum.github.io/blog/)

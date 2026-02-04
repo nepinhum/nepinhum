@@ -35,7 +35,18 @@
 -. ...
 
 ## About me
-I'm too lazy to do it now but it will be done by the time you come back!
+> Contributor at [AquaRelay](https://github.com/AquaRelay/AquaRelay) | Blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy server written in PHP.
+
+> Developer of [Packy](https://github.com/PyleMC/Packy) |  Minecraft Resource Pack Tool for Bedrock Edition written in Go.
+
+> Developer of [BloodicClient](https://github.com/nepinhum/BloodicClient) | Fabric-based Minecraft hacked client written in Java.
+
+> Creator of [TrollXD](https://github.com/nepinhum/TrollXD) | A Troll plugin with an easy UI and advanced features for PocketMine-MP 
+
+> Developer of [schepass](https://github.com/nepinhum/schepass) | A password manager written in Go, supposedly advanced. 
+
+> Developer at [OpenFNAF](https://github.com/OpenFNAF) | OpenFNAF is an open-source project for (fan-made) remake-impl of the FNaF series.
+
 <!--
 **nepinhum/nepinhum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

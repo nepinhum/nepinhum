@@ -35,6 +35,8 @@
 -. ...
 
 ## About me
+
+> [bedrock-rs](https://github.com/bedrock-crustaceans/bedrock-rs) | Universal library for Minecraft: Bedrock Edition in Rust.
 > Contributor at [AquaRelay](https://github.com/AquaRelay/AquaRelay) | Blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy server written in PHP.
 
 > Developer of [Packy](https://github.com/PyleMC/Packy) |  Minecraft Resource Pack Tool for Bedrock Edition written in Go.

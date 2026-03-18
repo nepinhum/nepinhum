@@ -2,7 +2,7 @@
 
 ### Techologies I Use Often
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,kotlin,js,ts,python,css,mysql,postgresql,golang,rust" />
+  <img src="https://skillicons.dev/icons?i=php,java,kotlin,js,ts,python,css,mysql,postgresql,golang,rust,c,cpp" />
 </p>
 
 ### Hobbies

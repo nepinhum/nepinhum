@@ -25,18 +25,21 @@
 - [Instagram](https://www.instagram.com/cannyyee/)
 - [Linktree](https://linktr.ee/cannyyee)
 
-### Some of My Projects
+<!--### Some of My Projects
 - [schepass](https://github.com/nepinhum/schepassv) |  A password manager written in V Lang, supposedly advanced. 
 - [TrollXD](https://github.com/nepinhum/TrollXD) |  A Troll plugin with an easy UI and advanced features for [PocketMine-MP](github.com/pmmp/PocketMine-MP).
 - [BloodicClient](https://github.com/nepinhum/BloodicClient) | Experimental level (for now) Minecraft hacked client. 
 - [TranslationManager](https://github.com/nepinhum/TranslationManager) | A Translator library-virion for [PocketMine-MP](github.com/pmmp/PocketMine-MP). 
 - [godot-platformer2d](https://github.com/nepinhum/godot-platformer) | A 2D platformer developed in Godot Engine with GDScript.
 - [orbit](https://github.com/orbitofficial/orbit) | A modular operating system written from scratch, featuring a 64-bit x86_64 architecture and a graphical user interface.
--. ...
+-. ... -->
 
 ## About me
 
 > [bedrock-rs](https://github.com/bedrock-crustaceans/bedrock-rs) | Universal library for Minecraft: Bedrock Edition in Rust.
+
+> Maintainer & Developer at [bedrock-v](https://github.com/bedrock-v) | Open-source Minecraft: Bedrock Edition projects related to V.
+
 > Contributor at [AquaRelay](https://github.com/AquaRelay/AquaRelay) | Blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy server written in PHP.
 
 > Developer of [Packy](https://github.com/PyleMC/Packy) |  Minecraft Resource Pack Tool for Bedrock Edition written in Go.
@@ -46,8 +49,6 @@
 > Creator of [TrollXD](https://github.com/nepinhum/TrollXD) | A Troll plugin with an easy UI and advanced features for PocketMine-MP 
 
 > Developer of [schepass](https://github.com/nepinhum/schepass) | A password manager written in Go, supposedly advanced. 
-
-> Developer at [OpenFNAF](https://github.com/OpenFNAF) | OpenFNAF is an open-source project for (fan-made) remake-impl of the FNaF series.
 
 <!--
 **nepinhum/nepinhum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

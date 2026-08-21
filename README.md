@@ -17,6 +17,7 @@ I primarily work with **V, C, Go, Rust, Kotlin and TypeScript**, also use Arch L
 
 - **[vraknet](https://github.com/bedrock-v/raknet)** — RakNet implementation in pure V.
 - **[Packy](https://github.com/PyleMC/Packy)** — Resource pack tooling for Minecraft: Bedrock Edition, written in Go.
+- **[ved-fork](https://github.com/scheforks/ved)** - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s. (forked from vlang ved)
 - **[schepass](https://github.com/nepinhum/schepass)** — Password manager written in Go.
 - **[BloodicClient](https://github.com/nepinhum/BloodicClient)** — Experimental Minecraft client project written in Java.
 - **[TrollXD](https://github.com/nepinhum/TrollXD)** — PocketMine-MP plugin with a configurable user interface.
